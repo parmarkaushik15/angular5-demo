@@ -1,0 +1,11 @@
+.datetimepicker .input-group-append>button {
+    padding: 10.5px 13px !important;
+    font-size: 1.846rem;
+    line-height: 23px;
+}
+.medroc{
+    padding: 10.5px 13px !important;
+    font-size: 21px;
+    line-height: 23px;
+    height: 48px;
+}
