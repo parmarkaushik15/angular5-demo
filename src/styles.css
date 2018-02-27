@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "assets/lib/perfect-scrollbar/css/perfect-scrollbar.min.css";
+@import "assets/lib/material-design-icons/css/material-design-iconic-font.min.css";
+@import "assets/css/app.css";
+
