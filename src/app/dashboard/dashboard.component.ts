@@ -8,7 +8,7 @@ declare var $: any;
 export class DashboardComponent implements OnInit, AfterViewInit {
   @ViewChild('frm') form;
   constructor() { }
-
+	model= "";
   ngOnInit() {
 
   }
